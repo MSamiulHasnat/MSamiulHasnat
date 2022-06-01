@@ -18,19 +18,23 @@ Skills: C, C++, Android Studio, HTML, XML
 
 ## ☕ Connect me on
 
-[<img src='https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/msamiulhasnat/)   [<img src='https://upload.wikimedia.org/wikipedia/commons/8/89/Facebook_Logo_%282019%29.svg' alt='facebook' height='40'>](https://www.facebook.com/www.facebook.com/m.samiul.hsnt)      [<img src='https://upload.wikimedia.org/wikipedia/commons/5/51/Twitter_logo.svg' alt='twitter' height='40'>](https://twitter.com/MSamiulHasnat)  
+[<img src='https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/msamiulhasnat/)   .. [<img src='https://upload.wikimedia.org/wikipedia/commons/8/89/Facebook_Logo_%282019%29.svg' alt='facebook' height='40'>](https://www.facebook.com/www.facebook.com/m.samiul.hsnt)  ..    [<img src='https://upload.wikimedia.org/wikipedia/commons/5/51/Twitter_logo.svg' alt='twitter' height='40'>](https://twitter.com/MSamiulHasnat)  
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=samiulhsnt)](https://github.com/ryo-ma/github-profile-trophy)
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiulhsnt)](https://github.com/anuraghazra/github-readme-stats)
 
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=samiulhsnt&show_icons=true&count_private=true)  
 
+<!--
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=samiulhsnt)  
 
 ![GitHub metrics](https://metrics.lecoq.io/samiulhsnt)  
 
+-->
+
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=samiulhsnt)  
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=samiulhsnt)](https://github.com/ryo-ma/github-profile-trophy)
 
