@@ -16,8 +16,8 @@ Skills: C, C++, Android Studio, HTML, XML
 - 😄 Pronouns: Samiul 
 - ⚡ Fun fact: I don't like JavaScript, lol 
 
-
-[<img src='https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/msamiulhasnat/)  [<img src='https://upload.wikimedia.org/wikipedia/commons/8/89/Facebook_Logo_%282019%29.svg' alt='facebook' height='40'>](https://www.facebook.com/www.facebook.com/m.samiul.hsnt)  [<img src='https://www.citypng.com/public/uploads/preview/-51613764511iazgpbchp1.png' alt='twitter' height='40'>](https://twitter.com/MSamiulHasnat)  
+##( ^^)_旦~~ reach me
+[<img src='https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/msamiulhasnat/)  [<img src='https://upload.wikimedia.org/wikipedia/commons/8/89/Facebook_Logo_%282019%29.svg' alt='facebook' height='40'>](https://www.facebook.com/www.facebook.com/m.samiul.hsnt)  [<img src='https://upload.wikimedia.org/wikipedia/commons/5/51/Twitter_logo.svg' alt='twitter' height='40'>](https://twitter.com/MSamiulHasnat)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
