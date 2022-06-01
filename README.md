@@ -1,8 +1,10 @@
 ### Hi there 👋, it's SAMIUL here
 #### An enthusiast Competitive Programmer 
-![An enthusiast Competitive Programmer ](https://www.linkedin.com/in/msamiulhasnat/)
+![An enthusiast Competitive Programmer ]
 
 In last few months, i have learnt a lot, how to work with people, the most important thing that i have learned is how to achieve something by sheer determination, hardwork and honesty. I am eager to learn more about marketing. But, i don't know what i can do for you. Just want to be the person who can solve problems in such a way that will be helpful for the people that are having problems. To me this is not only an achievement but also a path to take.
+
+![Profile views](https://gpvc.arturio.dev/samiulhsnt)  
 
 Skills: C, C++, Android Studio, HTML, XML
 
@@ -32,4 +34,4 @@ Skills: C, C++, Android Studio, HTML, XML
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=samiulhsnt)  
 
-![Profile views](https://gpvc.arturio.dev/samiulhsnt)  
+
