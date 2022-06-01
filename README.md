@@ -9,11 +9,9 @@ Skills: C, C++, Android Studio, HTML, XML
 
 - 🌱 I’m currently learning C & C++ 
 - 👯 I’m looking to collaborate on FAANG 
-- 🤔 I’m looking for help with data structure and algorithm 
 - 💬 Ask me about my current status of CP 
-- 📫 How to reach me: samiulhsnt2016@gmail.com 
-- 😄 Pronouns: Samiul 
-- ⚡ Fun fact: I don't like JavaScript, lol 
+- ⚡ Fun fact: I don't like JavaScript, lol
+- 📫 How to reach me: samiulhsnt2016@gmail.com  
 
 
 ## ☕ Connect me on
