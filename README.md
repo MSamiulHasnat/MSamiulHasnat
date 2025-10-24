@@ -35,11 +35,22 @@ I am actively seeking opportunities to contribute to innovative projects and col
   </a>
 </p>
 
-### ☕ Connect with Me
+### Connect with Me
 
-[<img src='https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/msamiulhasnat/)&nbsp;&nbsp;
-[<img src='https://upload.wikimedia.org/wikipedia/commons/8/89/Facebook_Logo_%282019%29.svg' alt='facebook' height='40'>](https://www.facebook.com/www.facebook.com/m.samiul.hsnt)&nbsp;&nbsp;
-[<img src='https://upload.wikimedia.org/wikipedia/commons/5/51/Twitter_logo.svg' alt='twitter' height='40'>](https://twitter.com/MSamiulHasnat)
+<p align="left">
+  <a href="https://www.linkedin.com/in/msamiulhasnat/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/MSamiulHasnat" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://www.facebook.com/m.samiul.hsnt" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="mailto:samiulhsnt2016@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
 
 ### 📊 My GitHub Statistics
 
