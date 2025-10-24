@@ -9,7 +9,30 @@ I am actively seeking opportunities to contribute to innovative projects and col
 - 👯 **Collaboration:** Open to collaborating on innovative AI or C++ based projects.
 - 📫 **Contact:** You can reach me at [samiulhsnt2016@gmail.com](mailto:samiulhsnt2016@gmail.com).
 
-### 🛠️ Technologies & Tools
+---
+
+### 🚀 My Featured Projects
+
+Here are a few projects I'm passionate about or have been working on:
+
+1.  **CT Image Quality Assessment (Graduation Project)**
+    -   **Description:** Developing a deep learning algorithm to evaluate and assess the quality of CT scan images, aiming to improve diagnostic accuracy.
+    -   **Technologies:** Python, TensorFlow, Keras, Computer Vision.
+    -   **[View Repository (Coming Soon)]()**
+
+2.  **Handwritten Digit Recognizer**
+    -   **Description:** A machine learning project to recognize handwritten digits from the MNIST dataset, built to practice fundamental deep learning concepts.
+    -   **Technologies:** Python, TensorFlow.
+    -   **[View Repository (Coming Soon)]()**
+
+3.  **2D Balloon Archery Game**
+    -   **Description:** A 2D game built from scratch using fundamental graphics programming in C++.
+    -   **Technologies:** C++, `graphics.h` library.
+    -   **[View Repository (Coming Soon)]()**
+
+---
+
+### 💻 My Tech Stack
 
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -35,6 +58,41 @@ I am actively seeking opportunities to contribute to innovative projects and col
   </a>
 </p>
 
+---
+
+### 📊 My GitHub Statistics
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MSamiulHasnat&style=flat-square&color=blueviolet" alt="Profile views" />
+
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSamiulHasnat&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=MSamiulHasnat&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MSamiulHasnat&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  </a>
+  
+  <br/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=MSamiulHasnat&theme=dracula&column=7&rank=S,A,B,C" alt="Trophies" />
+  </a>
+  <br/>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MSamiulHasnat&theme=tokyonight&hide_border=true" alt="Activity Graph" />
+  </a>
+  
+  <br/>
+  <img src="httpss://raw.githubusercontent.com/MSamiulHasnat/MSamiulHasnat/output/github-contribution-grid-snake.svg" alt="Snake Graph" />
+  
+</p>
+
+---
+
 ### Connect with Me
 
 <p align="center">
@@ -49,31 +107,5 @@ I am actively seeking opportunities to contribute to innovative projects and col
   </a>
   <a href="mailto:samiulhsnt2016@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
-
-### 📊 My GitHub Statistics
-
-<p align="center">
-  <img src="https://gpvc.arturio.dev/MSamiulHasnat" alt="Profile views" />
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSamiulHasnat&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
-  
-  <br/>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=MSamiulHasnat&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  </a>
-  
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MSamiulHasnat&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-  </a>
-  
-  <br/>
-  
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MSamiulHasnat&theme=tokyonight&margin-w=15" alt="Trophies" />
   </a>
 </p>
