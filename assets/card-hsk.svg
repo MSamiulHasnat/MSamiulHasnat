@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 380" width="600" height="380" role="img" aria-label="HSK ShiFu: textbook-grounded Chinese tutor">
+<style>
+.bg{fill:#0B1020}.edge{stroke:#1F2B4D}.ink{fill:#F1F5F9}.muted{fill:#94A3B8}.dim{fill:#64748B}
+.accent{fill:#5EEAD4}.violet{fill:#A78BFA}.amber{fill:#FBBF24}.green{fill:#4ADE80}
+.chip{fill:#131C38;stroke:#24335C}.chiptext{fill:#CBD5E1}.faint{fill:#1A2444}.fstroke{stroke:#1F2B4D;fill:none}
+.win{fill:#111832;stroke:#24335C}.blk{fill:#1E2A4A}.blk2{fill:#2A3A66}
+.sans{font-family:ui-sans-serif,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
+.mono{font-family:ui-monospace,'SF Mono','Cascadia Code',Consolas,monospace}
+.pulse{animation:p 1.8s ease-in-out infinite}@keyframes p{50%{opacity:.25}}
+@media (prefers-color-scheme: light){
+.bg{fill:#FFFFFF}.edge{stroke:#DCE3EE}.ink{fill:#0F172A}.muted{fill:#475569}.dim{fill:#64748B}
+.accent{fill:#0D9488}.violet{fill:#7C3AED}.amber{fill:#D97706}.green{fill:#16A34A}
+.chip{fill:#F1F5F9;stroke:#DCE3EE}.chiptext{fill:#334155}.faint{fill:#EEF2F7}.fstroke{stroke:#E2E8F0}
+.win{fill:#F8FAFC;stroke:#DCE3EE}.blk{fill:#E2E8F0}.blk2{fill:#CBD5E1}
+}
+</style>
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#A78BFA"/><stop offset="1" stop-color="#5EEAD4"/></linearGradient>
+<clipPath id="c"><rect x="1" y="1" width="598" height="378" rx="22"/></clipPath></defs>
+<rect x="1" y="1" width="598" height="378" rx="22" class="bg edge" stroke-width="1.5"/>
+<g clip-path="url(#c)"><text x="560" y="250" text-anchor="end" class="sans faint" font-size="240" font-weight="900">汉</text><rect x="1" y="1" width="5" height="380" fill="url(#g)"/></g>
+<text x="40" y="58" class="mono violet" font-size="15" font-weight="700">02</text>
+<text x="72" y="58" class="mono dim" font-size="15">/ project</text>
+<rect x="460" y="38" width="108" height="28" rx="14" class="chip"/><text x="472" y="57" class="mono violet" font-size="12.5" font-weight="700" letter-spacing="1">OPEN SOURCE</text>
+<text x="38" y="110" class="sans ink" font-size="36" font-weight="800" letter-spacing="-0.8">HSK ShiFu</text>
+<text x="40" y="146" class="sans muted" font-size="16.5">A Chinese tutor that only teaches what's in the</text>
+<text x="40" y="171" class="sans muted" font-size="16.5">textbook, and cites the page for every answer.</text>
+<rect x="40" y="212" width="8" height="8" rx="2" class="violet"/><text x="60" y="222" class="sans ink" font-size="15.5">1,708-node knowledge graph of HSK 1–3</text>
+<rect x="40" y="240" width="8" height="8" rx="2" class="violet"/><text x="60" y="250" class="sans ink" font-size="15.5">Practice sessions with tutor 王老师</text>
+<rect x="40" y="268" width="8" height="8" rx="2" class="violet"/><text x="60" y="278" class="sans ink" font-size="15.5">Runs locally or on Claude</text>
+<rect x="40" y="318" width="66" height="28" rx="8" class="chip"/><text x="51" y="337" class="mono chiptext" font-size="12.5">Python</text><rect x="114" y="318" width="74" height="28" rx="8" class="chip"/><text x="125" y="337" class="mono chiptext" font-size="12.5">FastAPI</text><rect x="196" y="318" width="133" height="28" rx="8" class="chip"/><text x="207" y="337" class="mono chiptext" font-size="12.5">Knowledge Graph</text><rect x="337" y="318" width="66" height="28" rx="8" class="chip"/><text x="348" y="337" class="mono chiptext" font-size="12.5">Ollama</text><rect x="411" y="318" width="66" height="28" rx="8" class="chip"/><text x="422" y="337" class="mono chiptext" font-size="12.5">Claude</text>
+</svg>
